@@ -4,12 +4,12 @@ public:
         if(needle == ""){
             return 0;
         }
-        for (int i = 0; i < haystack.size(); i++){
-            for(int j = 0; j < needle.size(); j++){
+        for (int i = 0; i <=(int)haystack.size() - (int)needle.size() ; i++){
+            for(int j = 0; j < (int)needle.size(); j++){
                 if(haystack[i + j] != needle[j]){
                     break;
                 }
-                if(j == needle.size()-1){
+                if(j == (int)needle.size()-1){
                     return i;
                 }
             }
