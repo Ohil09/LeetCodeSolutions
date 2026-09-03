@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
