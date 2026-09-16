@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
