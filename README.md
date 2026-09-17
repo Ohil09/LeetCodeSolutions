@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
