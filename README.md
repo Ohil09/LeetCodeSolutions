@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [1089-duplicate-zeros](https://github.com/Ohil09/LeetCodeSolutions/tree/master/1089-duplicate-zeros) |
+| [2678-number-of-senior-citizens](https://github.com/Ohil09/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ohil09/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2678-number-of-senior-citizens](https://github.com/Ohil09/LeetCodeSolutions/tree/master/2678-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
